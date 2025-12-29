@@ -52,6 +52,7 @@ This project helped me understand how machine learning models move from notebook
 I’m continuously learning and improving — feedback and suggestions are welcome! 😊
 
 how to run ?
+
 1.run model file first.
 
 2.then one pkl file is created.
@@ -59,5 +60,7 @@ how to run ?
 3.past it inside stockforecast.
 
 docker 
-pull usig command
+
+pull using command
+
 docker pull chethankiruvaase/stockforecast:latest

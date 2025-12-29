@@ -53,7 +53,9 @@ I’m continuously learning and improving — feedback and suggestions are welco
 
 how to run ?
 1.run model file first.
+
 2.then one pkl file is created.
+
 3.past it inside stockforecast.
 
 docker 
